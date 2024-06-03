@@ -1,0 +1,7 @@
+flask
+line-bot-sdk
+pytz
+requests==2.25.1
+
+
+
